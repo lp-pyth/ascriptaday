@@ -1,5 +1,8 @@
-
-
+"""
+Created on Sun Mar  7 12:26:17 2021
+BruteForceZip
+@author: lux
+"""
 
 from zipfile import ZipFile
 from tqdm import tqdm
