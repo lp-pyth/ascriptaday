@@ -11,7 +11,7 @@ import re
 from collections import Counter
 c = Counter()  
 
-findword = 'biden'    #What word are you looking for
+findword = ''    #What word are you looking for
 
 news_url="https://news.google.com/news/rss"
 Client=urlopen(news_url)
